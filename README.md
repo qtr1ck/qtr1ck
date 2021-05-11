@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrick
-- 👀 I’m interested in all types of new techonologies
+- 👀 I’m interested in all types of new technologies
 - 🌱 I’m currently learning Java and Machine Learning
 - 💞️ I’m looking to collaborate on interesting ML projects
 
