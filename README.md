@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Patrick
 - 👀 I’m interested in all types of new technologies
+- 📖 I’m studying Bioinformatics at the University of Applied Sciences Upper Austria
+- ✍🏼 I’m currently working on my bachelor thesis on blockchain and climate change
 - 🌱 I’m currently learning Go and Machine Learning
 
 <!---
